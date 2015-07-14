@@ -1,0 +1,21 @@
+
+<img src='http://www.logologo.com/logos/generic-globe-vector-logo.jpg' height='80' width='120'/><br/>
+
+<h4>Dear #NAME#,</h4>
+
+We recently had a security breach that leaked your username and password information.<br/>
+We need you to change your password at the following link below.<br/>
+<a href="#VIDEO#">Update Your Information</a>
+<br/><br/>
+
+You must respond by <span style='color:red;text-decoration:underline'>#DEADLINE#</span> or we will close your account.<br/><br/>
+
+This message was sent to #NAME# at email address #EMAIL#<br/><br/>
+
+Thank you for your quick response in regards to this issue.<br/>
+We appreciate you as a customer and apologize for any inconvenience this may have caused.<br/><br/>
+
+Internet Banking Security Team<br/>
+Your Company<br/>
+
+<!-- img src='http://www.clipartbest.com/cliparts/nTX/oMK/nTXoMKKTB.png' height='50' width='50'/ -->

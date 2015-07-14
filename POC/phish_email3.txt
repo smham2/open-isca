@@ -1,0 +1,17 @@
+
+<img src='http://www.logologo.com/logos/generic-globe-vector-logo.jpg' height='80' width='120'/><br/>
+
+<h4>Dear #NAME#,</h4>
+
+We have detected that your computer is sending spam email to a number of our customers.<br/>
+We need you to run the removal tool at the link below to get rid of the infection.<br/>
+<a href="#VIDEO#">Download Now!</a>
+<br/><br/>
+
+This message was sent to #NAME# at email address #EMAIL#<br/><br/>
+
+Thank you for your quick response in regards to this issue.<br/><br/>
+
+Network Security Team<br/>
+Your Company<br/>
+
