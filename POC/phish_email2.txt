@@ -18,4 +18,4 @@ We appreciate you as a customer and apologize for any inconvenience this may hav
 Internet Banking Security Team<br/>
 Your Company<br/>
 
-<!-- img src='http://www.clipartbest.com/cliparts/nTX/oMK/nTXoMKKTB.png' height='50' width='50'/ -->
+<!-- Phishing email template #2, for use with open-isac -->

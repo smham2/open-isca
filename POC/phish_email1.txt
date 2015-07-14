@@ -17,4 +17,4 @@ Thank you for your quick response in regards to this issue.<br/><br/>
 Internet Banking Security Team<br/>
 Your Company Bank<br/>
 
-<!-- img src='http://www.clipartbest.com/cliparts/nTX/oMK/nTXoMKKTB.png' height='50' width='50'/ -->
+<!-- Phishing email template #1, for use with open-isac -->
